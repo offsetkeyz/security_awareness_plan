@@ -1,4 +1,5 @@
 # Security Awareness Plan (SAP) for Public Agencies
+This plan can also be viewed on Google Drive by following this link: https://docs.google.com/document/d/1xVXRp6bpQPrs3vi4u_CuJjPpx0wxKC6B/edit?usp=sharing&ouid=110212434952609927424&rtpof=true&sd=true
 
 ## Overview
 
